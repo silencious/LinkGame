@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/fire/1.png</file>
+        <file>pic/fire/2.png</file>
+        <file>pic/fire/3.png</file>
+        <file>pic/fire/4.png</file>
+        <file>pic/bg1.jpg</file>
+        <file>pic/bg2.jpg</file>
+        <file>pic/bg3.jpg</file>
+        <file>pic/hint.png</file>
+        <file>pic/level.png</file>
+        <file>pic/score.png</file>
+        <file>pic/shuffle.png</file>
+        <file>pic/shade.jpg</file>
+    </qresource>
+</RCC>
