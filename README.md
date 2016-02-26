@@ -3,6 +3,7 @@ Simple imitation of popular Link Game.
 Summer project(2014.7) of Freshman. 
 
 Note: 
+
  1.Resource files (pic&sound) get large after rcc-ed to .cpp files, which may cause out-of-heap-space-error when compiled with VS2013. 
  Split .qrc to 3 files to avoid this problem. 
 
