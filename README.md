@@ -1,5 +1,5 @@
 # LinkGame
-Simple imitation of popular Link Game. 
+Adaptation of popular Link Game. 
 Summer project(2014.7) of Freshman. 
 
 Note: 
@@ -15,6 +15,8 @@ Note:
 	Qt5Widget.dll
  are required for release version.
 
- 3.The game was developed with only half-year programming experience on, one person in a month, and only for school project purpose. 
- I now upload it here as backup. No future intention to update or write doc.
+ 3.The game was developed by one person, in one summer, with one year programming experience. If you encounter any problem, please contact me(tjh0473@gmail.com). 
+ 
+### Have fun!
+
 
